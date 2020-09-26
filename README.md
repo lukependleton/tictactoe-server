@@ -8,4 +8,5 @@ The TicTacToe game will be able to be played by the corresponding iOS shortcut r
 
 ##Endpoint Ideas
 beginGame
+joinGame
 selectTeam
